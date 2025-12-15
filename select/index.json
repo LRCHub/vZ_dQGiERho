@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "こころ (2024Ver.)",
+  "base_artist": "Kazumasa Oda",
+  "createdAt": "2025-12-15T14:13:12.723205Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "こころ",
+      "artist": "小田和正",
+      "has_synced": true,
+      "path": "select/01_こころ_小田和正.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "こころ",
+      "artist": "花江夏樹",
+      "has_synced": true,
+      "path": "select/02_こころ_花江夏樹.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "こころ",
+      "artist": "LUNKHEAD",
+      "has_synced": false,
+      "path": "select/03_こころ_LUNKHEAD.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "こころ",
+      "artist": "Kazumasa Oda",
+      "has_synced": true,
+      "path": "select/04_こころ_Kazumasa_Oda.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "こころ",
+      "artist": "Kazumasa Oda",
+      "has_synced": true,
+      "path": "select/05_こころ_Kazumasa_Oda.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "あたま、こころ",
+      "artist": "コトリンゴ",
+      "has_synced": false,
+      "path": "select/06_あたま、こころ_コトリンゴ.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "こころ ふるえけり",
+      "artist": "さかいれいしう",
+      "has_synced": true,
+      "path": "select/07_こころ_ふるえけり_さかいれいしう.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Kokoro (こころ)",
+      "artist": "Sakurako Ohara (大原櫻子)",
+      "has_synced": true,
+      "path": "select/08_Kokoro_(こころ)_Sakurako_Ohara_(大原櫻子).lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "こころ",
+      "artist": "小田 和正",
+      "has_synced": false,
+      "path": "select/pl_01_こころ_小田_和正.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "こころ",
+      "artist": "小田 和正",
+      "has_synced": false,
+      "path": "select/pl_02_こころ_小田_和正.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "こころ",
+      "artist": "小田 和正",
+      "has_synced": false,
+      "path": "select/pl_03_こころ_小田_和正.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "こころ",
+      "artist": "小田 和正",
+      "has_synced": false,
+      "path": "select/pl_04_こころ_小田_和正.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "こころ",
+      "artist": "小田 和正",
+      "has_synced": false,
+      "path": "select/pl_05_こころ_小田_和正.txt"
+    },
+    {
+      "id": "petitlyrics_6",
+      "source": "petitlyrics",
+      "title": "こころは気紛れ",
+      "artist": "小田 和正",
+      "has_synced": false,
+      "path": "select/pl_06_こころは気紛れ_小田_和正.txt"
+    },
+    {
+      "id": "petitlyrics_7",
+      "source": "petitlyrics",
+      "title": "心はなれて",
+      "artist": "小田 和正",
+      "has_synced": false,
+      "path": "select/pl_07_心はなれて_小田_和正.txt"
+    },
+    {
+      "id": "petitlyrics_8",
+      "source": "petitlyrics",
+      "title": "こころは気紛れ",
+      "artist": "小田 和正",
+      "has_synced": false,
+      "path": "select/pl_08_こころは気紛れ_小田_和正.txt"
+    }
+  ]
+}
